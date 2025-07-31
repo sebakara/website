@@ -26,7 +26,7 @@ url("./fonts/bootstrap-icons.woff?dd67030699838ea613ee6dbda90effa6") format("wof
   -moz-osx-font-smoothing: grayscale;
 }
 .bi-check2-all{
-  color: gold;
+  color: #0293dd;
 }
 
 .bi-123::before { content: "\f67f"; }
